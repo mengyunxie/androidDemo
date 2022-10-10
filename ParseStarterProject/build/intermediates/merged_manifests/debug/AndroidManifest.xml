@@ -25,15 +25,8 @@
         android:name="com.parse.starter.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.parse.starter.permission.C2D_MESSAGE" /> <!-- <meta-data -->
-    <!-- android:name="com.parse.SERVER_URL" -->
-    <!-- android:value="https://parseapi.back4app.com" /> -->
-    <!-- <meta-data -->
-    <!-- android:name="com.parse.APPLICATION_ID" -->
-    <!-- android:value="myappID" /> //put your key -->
-    <!-- <meta-data -->
-    <!-- android:name="com.parse.CLIENT_KEY" -->
-    <!-- android:value="zrlhuRPyj7ak" /> //put your key -->
+    <uses-permission android:name="com.parse.starter.permission.C2D_MESSAGE" />
+
     <application
         android:name="com.parse.starter.StarterApplication"
         android:allowBackup="true"
