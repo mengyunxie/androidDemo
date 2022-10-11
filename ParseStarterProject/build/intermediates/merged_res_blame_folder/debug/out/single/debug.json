@@ -26,5 +26,9 @@
     {
         "merged": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_share_menu.xml.flat",
+        "source": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/share_menu.xml"
     }
 ]
