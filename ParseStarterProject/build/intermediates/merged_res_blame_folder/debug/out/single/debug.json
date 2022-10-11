@@ -12,6 +12,10 @@
         "source": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
     },
     {
+        "merged": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    },
+    {
         "merged": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
     },

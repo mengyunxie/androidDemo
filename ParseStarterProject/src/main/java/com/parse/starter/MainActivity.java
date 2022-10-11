@@ -121,6 +121,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("Instagram");
+
     changeModeTextView = (TextView) findViewById(R.id.changeModeTextView);
     changeModeTextView.setOnClickListener(this);
 
