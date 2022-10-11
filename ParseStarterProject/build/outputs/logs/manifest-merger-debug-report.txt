@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/mengyunxie/.gradle/caches/transforms-3/e386d24011cb0ef345bf76ddce5ddec0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mengyunxie/.gradle/caches/transforms-3/37d53ff67aab3b1ba7e6073d66fe4e73/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/mengyunxie/.gradle/caches/transforms-3/61e9969218dad0022e70111b9439a82d/transformed/play-services-9.4.0/AndroidManifest.xml:2:1-6:12
@@ -80,20 +80,20 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mengyunxie/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mengyunxie/.gradle/caches/transforms-3/d309f045b0d6e2faabaf12ca93a1686a/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/mengyunxie/.gradle/caches/transforms-3/a352babb4aa37445bc01594ede07b4e0/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/mengyunxie/.gradle/caches/transforms-3/6ca42d9a868baf6b4d0380c954a9ac6b/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-34:12
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
@@ -156,7 +156,7 @@ ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Pro
 	android:name
 		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
 application
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32:19
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/mengyunxie/.gradle/caches/transforms-3/e386d24011cb0ef345bf76ddce5ddec0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/mengyunxie/.gradle/caches/transforms-3/e386d24011cb0ef345bf76ddce5ddec0/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/mengyunxie/.gradle/caches/transforms-3/61e9969218dad0022e70111b9439a82d/transformed/play-services-9.4.0/AndroidManifest.xml:5:5-20
@@ -257,34 +257,22 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mengyunxie/.
 		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
-activity#com.parse.starter.UserFeedActivity
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-19:40
-	android:exported
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-37
-	android:name
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:13-45
-activity#com.parse.starter.UserListActivity
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-22:40
-	android:exported
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:13-37
-	android:name
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-45
 activity#com.parse.starter.MainActivity
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-25:20
 	android:label
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mengyunxie/Tech/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

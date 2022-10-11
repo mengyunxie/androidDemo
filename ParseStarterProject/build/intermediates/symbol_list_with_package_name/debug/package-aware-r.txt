@@ -1085,6 +1085,7 @@ drawable quantum_ic_volume_off_grey600_36
 drawable quantum_ic_volume_off_white_36
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable uberlogo
 id ALT
 id CTRL
 id FUNCTION
@@ -1177,7 +1178,6 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
-id changeModeTextView
 id checkbox
 id chronometer
 id classic
@@ -1230,6 +1230,7 @@ id fill_horizontal
 id fill_vertical
 id flip
 id forever
+id getStartedButton
 id gone
 id google_wallet_classic
 id google_wallet_grayscale
@@ -1275,13 +1276,11 @@ id light
 id line1
 id line3
 id linear
-id linearLayout
 id listMode
 id list_item
 id loading_indicator
 id logoImageView
 id logo_only
-id logout
 id main_container
 id match_global_nicknames
 id match_parent
@@ -1302,7 +1301,6 @@ id packed
 id parent
 id parentPanel
 id parentRelative
-id passwordEditText
 id path
 id pathRelative
 id percent
@@ -1350,12 +1348,10 @@ id seek_bar
 id seek_bar_controls
 id select_dialog_listview
 id selectionDetails
-id share
 id shortcut
 id showCustom
 id showHome
 id showTitle
-id signupButton
 id sin
 id slide
 id spacer
@@ -1393,6 +1389,8 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textTitle
+id textView
+id textView2
 id text_empty_message
 id text_list_view
 id thing_proto
@@ -1412,8 +1410,7 @@ id uniform
 id up
 id url
 id useLogo
-id userListView
-id usernameEditText
+id userTypeSwitch
 id visible
 id wide
 id withText
@@ -1455,8 +1452,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-layout activity_user_feed
-layout activity_user_list
 layout cast_expanded_controller_activity
 layout cast_help_text
 layout cast_intro_overlay
@@ -1477,7 +1472,6 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
-menu share_menu
 mipmap ic_launcher
 raw gtm_analytics
 string abc_action_bar_home_description
